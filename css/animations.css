@@ -1,0 +1,19 @@
+.nav-button-dekstop-only:hover{
+    background-color: white;
+    color: #0077FF;
+}
+.blue-button:hover{
+    background-color: white;
+    color: #0077FF;
+    cursor: pointer;
+}
+.gray-button:hover{
+    background-color: #0077FF;
+    color: white;
+    cursor: pointer;
+}
+.button-footer:hover{
+    background-color: #0077FF;
+    color: white;
+    cursor: pointer;
+}
