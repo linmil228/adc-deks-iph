@@ -56,7 +56,7 @@ main{
     padding: 7px 32px;
     border-radius: 14px;
     height: 50px;
-    display: flex !important;
+    display: flex;
     align-items: center;
     color: white;
 }
