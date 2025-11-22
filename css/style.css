@@ -295,7 +295,7 @@ footer{
     display: none;
 }
 .dekstop-only{
-    display: inline;
+    display: inherit;
 }
 @media (max-width: 394px){
     .dekstop-only{
@@ -318,6 +318,8 @@ footer{
     nav{
         width: 100%;
         padding: 6px 12px;
+        position: fixed;
+        top: 0;
     }
     .name{
         width: 100%;
@@ -370,6 +372,7 @@ footer{
         display: flex;
         flex-direction: column;
         gap: 96px;
+        width: 100%;
     }
     .logo-footer{
         display: flex;
